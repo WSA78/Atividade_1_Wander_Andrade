@@ -10,3 +10,10 @@ git remote
 Wander de Souza Andrade
 Nicolas Horta dos Santos
 Veronica Torres Ribeiro
+
+
+Atividade 2 - Presencial: unificação de repositórios
+
+Versão 2 APP
+
+Nova Versao
